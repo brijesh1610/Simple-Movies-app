@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-movies-app/static/css/main.42c2e456.css",
+    "main.js": "/simple-movies-app/static/js/main.9e6924a6.js",
+    "static/js/787.a108a004.chunk.js": "/simple-movies-app/static/js/787.a108a004.chunk.js",
+    "static/media/Dark.jpg": "/simple-movies-app/static/media/Dark.859abf93d7c32d1e8040.jpg",
+    "static/media/bb.jpg": "/simple-movies-app/static/media/bb.803fab106c73a11854fd.jpg",
+    "static/media/strangerthings.jpg": "/simple-movies-app/static/media/strangerthings.ba1d79dcd3304cc55531.jpg",
+    "static/media/extracurricular.jpg": "/simple-movies-app/static/media/extracurricular.87852020f31ed41c6de8.jpg",
+    "static/media/vd.jpg": "/simple-movies-app/static/media/vd.9987911379f27ee53820.jpg",
+    "index.html": "/simple-movies-app/index.html",
+    "main.42c2e456.css.map": "/simple-movies-app/static/css/main.42c2e456.css.map",
+    "main.9e6924a6.js.map": "/simple-movies-app/static/js/main.9e6924a6.js.map",
+    "787.a108a004.chunk.js.map": "/simple-movies-app/static/js/787.a108a004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c2e456.css",
+    "static/js/main.9e6924a6.js"
+  ]
+}
